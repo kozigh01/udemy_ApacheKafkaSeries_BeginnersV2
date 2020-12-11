@@ -1,0 +1,16 @@
+/source/bin/Debug/net5.0/source
+/source/bin/Debug/net5.0/source.deps.json
+/source/bin/Debug/net5.0/source.runtimeconfig.json
+/source/bin/Debug/net5.0/source.runtimeconfig.dev.json
+/source/bin/Debug/net5.0/source.dll
+/source/bin/Debug/net5.0/ref/source.dll
+/source/bin/Debug/net5.0/source.pdb
+/source/obj/Debug/net5.0/source.csprojAssemblyReference.cache
+/source/obj/Debug/net5.0/source.GeneratedMSBuildEditorConfig.editorconfig
+/source/obj/Debug/net5.0/source.AssemblyInfoInputs.cache
+/source/obj/Debug/net5.0/source.AssemblyInfo.cs
+/source/obj/Debug/net5.0/source.csproj.CoreCompileInputs.cache
+/source/obj/Debug/net5.0/source.dll
+/source/obj/Debug/net5.0/ref/source.dll
+/source/obj/Debug/net5.0/source.pdb
+/source/obj/Debug/net5.0/source.genruntimeconfig.cache
